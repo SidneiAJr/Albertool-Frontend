@@ -186,9 +186,6 @@ export default function TelaLogin() {
 - [x] React Web — componentes base
 - [x] Interfaces TypeScript
 - [x] Utils de formatação e validação
-- [ ] Albertool Backend — estrutura de backend pronto para deploy no Railway/Render
-- [ ] Tema dark/light nos componentes
-- [ ] Mais variantes de componentes
 
 ---
 
