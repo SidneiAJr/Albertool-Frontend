@@ -11,6 +11,13 @@
 
 </div>
 
+
+---
+
+## Estrutura | Pastas
+
+<img width="245" height="125" alt="image" src="https://github.com/user-attachments/assets/081fb5d1-a535-4213-990c-b138e60bdd65" />
+
 ---
 
 ## 🚀 O que é?
